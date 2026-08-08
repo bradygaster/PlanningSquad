@@ -1,0 +1,53 @@
+{
+  "agents": {
+    "product-analyst": {
+      "created_at": "2026-08-08T01:16:24.000Z",
+      "persistent_name": "product-analyst",
+      "universe": "none (descriptive naming)",
+      "legacy_named": false,
+      "status": "active"
+    },
+    "architect": {
+      "created_at": "2026-08-08T01:16:24.000Z",
+      "persistent_name": "architect",
+      "universe": "none (descriptive naming)",
+      "legacy_named": false,
+      "status": "active"
+    },
+    "work-decomposer": {
+      "created_at": "2026-08-08T01:16:24.000Z",
+      "persistent_name": "work-decomposer",
+      "universe": "none (descriptive naming)",
+      "legacy_named": false,
+      "status": "active"
+    },
+    "test-strategist": {
+      "created_at": "2026-08-08T01:16:24.000Z",
+      "persistent_name": "test-strategist",
+      "universe": "none (descriptive naming)",
+      "legacy_named": false,
+      "status": "active"
+    },
+    "dependency-reviewer": {
+      "created_at": "2026-08-08T01:16:24.000Z",
+      "persistent_name": "dependency-reviewer",
+      "universe": "none (descriptive naming)",
+      "legacy_named": false,
+      "status": "active"
+    },
+    "plan-critic": {
+      "created_at": "2026-08-08T01:16:24.000Z",
+      "persistent_name": "plan-critic",
+      "universe": "none (descriptive naming)",
+      "legacy_named": false,
+      "status": "active"
+    },
+    "issue-scribe": {
+      "created_at": "2026-08-08T01:16:24.000Z",
+      "persistent_name": "issue-scribe",
+      "universe": "none (descriptive naming)",
+      "legacy_named": false,
+      "status": "active"
+    }
+  }
+}
