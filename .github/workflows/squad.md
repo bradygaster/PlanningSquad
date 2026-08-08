@@ -50,7 +50,7 @@ safe-outputs:
     max: 5
   add-comment:
     max: 10
-source: bradygaster/squad/workflows/squad.md@a4b60e8feb02f20d3bff2ac5c61364cb1be664f9
+source: bradygaster/squad/workflows/squad.md@3997038d27bef8013c4a52c4cd217a2364aeab69
 ---
 
 # Squad — Unified `/squad` Slash Command
